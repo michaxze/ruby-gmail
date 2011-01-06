@@ -1,4 +1,4 @@
-require 'mime/message'
+#require 'mime/message'
 class Gmail
   class Message
     def initialize(gmail, mailbox, uid)
